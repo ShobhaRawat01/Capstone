@@ -1,0 +1,25 @@
+.loginbutton {
+    background-color: #220633;
+    border: none;
+    color: rgb(250, 247, 247);
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+  }
+   /* .loginbutton:hover{
+    background-color: rgb(7, 219, 0);
+    color:black;
+    font-size:20px;
+    font-weight: bold;
+
+    box-shadow: 2px 2px 5px #888888;
+  } */
+
+  .signupherelink:hover{
+    color: #028517;
+
+  }
+  

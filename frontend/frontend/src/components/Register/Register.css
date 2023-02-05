@@ -1,0 +1,104 @@
+.select-large {
+    height: 50px;
+    font-size: 20px;
+    max-width: 100px;
+    border-radius: 8%;
+    border-color: #BCBDBD;
+    
+}
+.select-large:focus, .select-large:active {
+    border-color: #BCBDBD;
+}
+
+/* .row {
+    padding: 0 20px;
+} */
+
+.Registertag{
+    width: 50%;
+    /* margin: 0 auto; */
+    /* display: flex; */
+    font-size: large;
+    max-width: 500px;
+    justify-content: center;
+
+
+    font-weight: bolder;
+    color: #250024f3;
+
+}
+.namecontainer{
+    padding-left: 0%;
+    padding-right: 0%;
+   
+}
+.mobileno{
+    padding-left: 0%;
+    padding-right: 0%;
+
+}
+.username{
+    padding-left: 0%;
+    padding-right: 0%;
+}
+.month{
+    padding-left: 0%;
+    padding-right: 0%;
+
+}
+.year{
+    padding-left: 0%;
+    padding-right: 0%;
+}
+.cvv{
+    padding-left: 0%;
+    padding-right: 0%;
+}
+.password{
+    padding-left: 0%;
+    padding-right: 0%;
+}
+.custom-select{
+    font-size: medium;
+    text-align: center;
+}
+.hover-red{
+    background-color: rgb(34, 1, 43);
+    color: #FFFFFF;
+    text-size-adjust: 20px;
+    font-size: large;
+    font-weight: bold;
+    box-shadow: 2px 2px 5px #888888;
+
+
+
+}
+.hover-red:hover{
+    background-color: rgba(7, 219, 0, 0.877);
+    color:black;
+    font-size:20px;
+    font-weight: bold;
+
+    box-shadow: 2px 2px 5px #888888;
+
+
+}
+.circle{
+    border-radius: 5%;
+    text-size-adjust: 20px;
+    font-size: x-large;
+    font-weight: bold;
+    box-shadow: 2px 2px 5px #888888;
+}
+.btn-light2{
+    width: 25px;
+    color:#130101;
+    background-color: #FFFFFF;
+}
+.input-group{
+    background-color: #FFFFFF;
+    color:#FFFFFF;
+
+
+
+}

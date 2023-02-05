@@ -1,0 +1,109 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.home,
+.services,
+.products,
+.sign-up {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+}
+
+.services {
+  /* background-image: url('/images/img-2.jpg'); */
+  background: linear-gradient(90deg, rgb(50, 0, 59) 0%, rgb(34, 1, 43) 100%);;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 80px;
+}
+.manageyourcard{
+  background: linear-gradient(90deg, rgb(50, 0, 59) 0%, rgb(34, 1, 43) 100%);;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 60px;
+  padding-top: 2%;
+
+}
+
+.manageyourcardp{
+  font-size: 30px;
+  background: linear-gradient(90deg, rgb(50, 0, 59) 0%, rgb(34, 1, 43) 100%);;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  text-align: center;
+  padding-top: 2%;
+
+}
+.rewards{
+  font-size: 50px;
+  background: linear-gradient(90deg, rgb(50, 0, 59) 0%, rgb(34, 1, 43) 100%);;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  text-align: center;
+  padding-top: 2%;
+}
+.rewardscontent{
+  font-size: 30px;
+  background: linear-gradient(90deg, rgb(50, 0, 59) 0%, rgb(34, 1, 43) 100%);;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  text-align: center;
+  padding-top: 2%;
+}
+
+.security{
+  font-size: 50px;
+  background: linear-gradient(90deg, rgb(50, 0, 59) 0%, rgb(34, 1, 43) 100%);;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  text-align: center;
+  padding-top: 2%;
+}
+.securitycontent{
+  font-size: 30px;
+  background: linear-gradient(90deg, rgb(50, 0, 59) 0%, rgb(34, 1, 43) 100%);;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  text-align: center;
+  padding-top: 2%;
+}
+
+.products {
+  background-image: url('/images/img-1.jpg');
+  background-position: center;
+  background-size: fill;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+
+}
+
+.sign-up {
+  background-image: url('/images/img-8.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
